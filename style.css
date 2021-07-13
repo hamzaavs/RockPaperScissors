@@ -1,0 +1,44 @@
+span {
+    display: block;
+    padding: 20px 0;
+    font-size: 40px;
+    color: #dfdede;
+    font-family: Helvetica;
+    text-transform: i;
+  }
+input{
+    display: block;
+    border-style: ridge;  
+    font-size: 20px;
+    color: #fcfcfc; 
+    font-family: Helvetica;
+    text-transform: capitalize;
+    border-radius: 20px;
+    background-color: #07412a;
+  }
+button{
+      display: block;
+    padding: 2px 4;
+    font-size: 40px;
+    color: #638ab6;
+    font-family: Helvetica;
+    text-transform: capitalize;
+    background-color: #830000;
+    border-radius: 24px;
+
+}
+div{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px; 
+  display: block;
+  margin: auto;
+  color: #ffa602ed;
+  font-size: 25px;
+}
+body{
+  background-color: #02022b;
+  font-size: 100px;
+  margin: 305px 0px 0px 565px;
+
+}
+
